@@ -5,6 +5,7 @@
 - Récupération automatique des rôles de niveaux lors d'un retour sur le serveur (#1)
 - Ajout de la commande administrateur /bot roles (#2)
 - Correction d'une typo pour la commande /renommer (#3)
+- Correction d'un bug faisant crasher le bot lors du rechargement des commandes (#6)
 - Ajouter le succès "Nouvel An" (#19)
 - Amélioration du `DatabaseManager`: Renforcement de la connexion à la base de données (#19)
 - Amélioration du `CronHandler`: Ajout d'un mode debug (#19)
