@@ -2,7 +2,7 @@
 
 ## 15.1 - 01/01/2023
 
--
+- Fix d'une erreur lors de l'attribution des succès (non groupés) (#32)
 -
 
 ## 15.0 - 30/12/2022
