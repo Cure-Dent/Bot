@@ -1,6 +1,11 @@
 # Changelog
 
-## 15.0
+## 15.1 - 01/01/2023
+
+- Fix d'une erreur lors de l'attribution des succès (non groupés) (#32)
+- Ajout de la rétrospective (#33)
+
+## 15.0 - 30/12/2022
 
 - Récupération automatique des rôles de niveaux lors d'un retour sur le serveur (#1)
 - Ajout de la commande administrateur /bot roles (#2)
