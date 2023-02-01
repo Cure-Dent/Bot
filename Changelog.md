@@ -1,5 +1,17 @@
 # Changelog
 
+## 16.0 - 30/01/2023
+
+- Ajout du système d'expérience pour les salons vocaux (#7)
+- Ajout d'un message d'erreur lorsqu'un membre essaie de se renommer avec un emoji custom de Discord (#11)
+- Ajout de messages de réaction à l'utilisation d'anciennes commandes du bot (#14)
+- Ajout de l'affichage des mois sur la commande /anniversaire ajouter (#39)
+- Modification du message du salon signalement (#40)
+- Ajout d'une date d'anniversaire customisée lors des années non bissextiles pour les membres étant né un 29 février (#41)
+- Ajout de la réaction "Oui, Maitre ?" (#42)
+- Ajout de la commande /fiche-joueur (#43)
+- Ajout de la sauvegarde des informations de rôles (#44)
+
 ## 15.1 - 01/01/2023
 
 - Fix d'une erreur lors de l'attribution des succès (non groupés) (#32)
